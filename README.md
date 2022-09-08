@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudeep-blip
 - 👀 I’m interested in ...problem solving 
-- 🌱 I’m currently learning ...data structures and alorithms
+- 🌱 I’m currently learning ...data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
